@@ -1,0 +1,28 @@
+{
+	"id": ###,
+	"title": "",
+	"edition": "",
+	"img": "(if using fimfiction, use a -medium link)",
+	"rating": "",
+	"dateAdded": "YYYY/MM/DD",
+	"expiry": null,
+	"authors":[
+		{
+			"name": "",
+			"url": ""
+		}
+	],
+	"links": [
+		{
+			"url": "Fimfiction Story Link",
+			"title": "Fimfiction.net"
+		},
+		{
+			"url": "Storefront Link",
+			"title": "Type of Book (Hardcover / Hardcover with Dust Cover / PDF / Perfect-Bound Paperback)"
+		}
+	],
+	"tags": [
+		"Some Tag", "anotherTag"
+	]
+}
