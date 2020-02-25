@@ -14,15 +14,15 @@
 		],
 		"links": [
 			{
-				"url": "Fimfiction Story Link",
+				"url": "fimfiction_link",
 				"title": "Fimfiction.net"
 			},
 			{
-				"url": "Storefront Link",
+				"url": "storefront_link",
 				"title": "Type of Book (Hardcover / Hardcover with Dust Cover / PDF / Perfect-Bound Paperback)"
 			}
 		],
 		"tags": [
-			"Some Tag", "anotherTag"
+			"someTag", "anotherTag"
 		]
 	}
