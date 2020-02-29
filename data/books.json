@@ -2463,7 +2463,11 @@
 			},
 			{
 				"url": "https://www.amazon.com/dp/1797620347",
-				"title": "Perfect-Bound Paperback"
+				"title": "Paperback (Volume 1)"
+			},
+			{
+				"url": "https://www.amazon.com/dp/B0851MHW4S",
+				"title": "Paperback (Volume 2)"
 			}
 		],
 		"tags": [
@@ -3460,6 +3464,41 @@
 		],
 		"tags": [
 			"paperback", "fimfic"
+		]
+	},{
+		"id": 119,
+		"title": "Fallout: Equestria - The Chrysalis",
+		"edition": "1",
+		"img": "https://cdn-img.fimfiction.net/story/qyqf-1441747646-288365-medium",
+		"rating": "M",
+		"dateAdded": "2020/02/29",
+		"expiry": null,
+		"authors":[
+			{
+				"name": "Phoenix_Dragon",
+				"url": "https://www.fimfiction.net/user/49263/Phoenix_Dragon"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/288365/",
+				"title": "Fimfiction.net"
+			},
+			{
+				"url": "http://www.lulu.com/shop/phoenix/fallout-equestria-the-chrysalis-book-1-wake/hardcover/product-24431412.html",
+				"title": "Hardcover (Volume 1)"
+			},
+			{
+				"url": "http://www.lulu.com/shop/phoenix/fallout-equestria-the-chrysalis-book-2-seek/hardcover/product-24431416.html",
+				"title": "Hardcover (Volume 2)"
+			},
+			{
+				"url": "http://www.lulu.com/shop/phoenix/fallout-equestria-the-chrysalis-book-3-change/hardcover/product-24431417.html",
+				"title": "Hardcover (Volume 3)"
+			}
+		],
+		"tags": [
+			"hardcover", "fimfic"
 		]
 	}
 ]
