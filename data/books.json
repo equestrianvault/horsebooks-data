@@ -488,7 +488,7 @@
 	}
 	,{
 		"id": 19,
-		"title": "Growing Up Dandy",
+		"title": "Conversations in a Canterlot Cafe",
 		"edition": "?",
 		"img": "https://cdn-img.fimfiction.net/story/ku63-1432567814-192085-medium",
 		"rating": "E",
@@ -574,7 +574,7 @@
 		"id": 22,
 		"title": "Daring Do and the Quest for the Sapphire Stone",
 		"edition": "A.K. Yearling Version",
-		"img": "https://imgix.ttcdn.co/i/product/original/0/111850-936f2a6211334b079df6ba8d4ba975bb.png?q=100&auto=format%2Ccompress&w=300",
+		"img": "https://cdn-img.fimfiction.net/story/m9ih-1432567185-191159-medium",
 		"rating": "E",
 		"dateAdded": "2018/12/29",
 		"expiry": null,
@@ -606,7 +606,7 @@
 		"id": 23,
 		"title": "Daring Do and the Quest for the Sapphire Stone",
 		"edition": "Almanac Version",
-		"img": "https://imgix.ttcdn.co/i/product/original/0/111850-73febbb277b647c7b24630f2bcd0d056.png?q=100&auto=format%2Ccompress&w=300",
+		"img": "https://cdn-img.fimfiction.net/story/m9ih-1432567185-191159-medium",
 		"rating": "E",
 		"dateAdded": "2018/12/29",
 		"expiry": null,
@@ -638,7 +638,7 @@
 		"id": 24,
 		"title": "Daring Do and the Griffon's Goblet",
 		"edition": "A.K. Yearling Version",
-		"img": "https://imgix.ttcdn.co/i/product/original/0/111850-46fe0a6f92614a8d908caea50222beca.png?q=100&auto=format%2Ccompress&w=300",
+		"img": "https://cdn-img.fimfiction.net/story/m9ih-1432567185-191159-medium",
 		"rating": "E",
 		"dateAdded": "2018/12/29",
 		"expiry": null,
@@ -2463,7 +2463,11 @@
 			},
 			{
 				"url": "https://www.amazon.com/dp/1797620347",
-				"title": "Perfect-Bound Paperback"
+				"title": "Paperback (Volume 1)"
+			},
+			{
+				"url": "https://www.amazon.com/dp/B0851MHW4S",
+				"title": "Paperback (Volume 2)"
 			}
 		],
 		"tags": [
@@ -2670,7 +2674,7 @@
 				"title": "Fimfiction.net"
 			},
 			{
-				"url": "https://forms.gle/kTcWJFnTby1UQqkBA",
+				"url": "https://docs.google.com/forms/d/e/1FAIpQLSfE9ckw3oALatD7xlKgEjLFUsub6l1LiY77vPx7M0bQ2WAzcg/viewform",
 				"title": "Signup Form"
 			}
 		],
@@ -2698,12 +2702,12 @@
 				"title": "Fimfiction.net"
 			},
 			{
-				"url": "https://jaxies-books.square.site/product/around-the-world-in-81-days/4",
-				"title": "Preorder"
+				"url": "http://www.lulu.com/shop/gapjaxie/around-the-world-in-81-days/paperback/product-24199644.html",
+				"title": "Paperback"
 			}
 		],
 		"tags": [
-			"preorder"
+			"fimfic", "paperback"
 		]
 	}
 	,{
@@ -2764,6 +2768,737 @@
 		],
 		"tags": [
 			"paperback", "limited run", "comic"
+		]
+	}
+	,{
+		"id": 97,
+		"title": "History Repeats",
+		"edition": "1",
+		"img": "https://cdn-img.fimfiction.net/story/acls-1432475042-90335-medium",
+		"rating": "T",
+		"dateAdded": "2020/02/24",
+		"expiry": null,
+		"authors":[
+			{
+				"name": "SaddlesoapOpera",
+				"url": "https://www.fimfiction.net/user/252/SaddlesoapOpera"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/90335/history-repeats",
+				"title": "Fimfiction.net"
+			},
+			{
+				"url": "http://www.lulu.com/shop/saddlesoap-opera/history-repeats-paperback/paperback/product-24172657.html",
+				"title": "Paperback"
+			},
+			{
+				"url": "http://www.lulu.com/shop/saddlesoap-opera/history-repeats/hardcover/product-24353064.html",
+				"title": "Hardcover"
+			}
+		],
+		"tags": [
+			"paperback", "hardcover", "fimfic"
+		]
+	}
+	,{
+		"id": 98,
+		"title": "The Best Night Ever",
+		"edition": "1",
+		"img": "https://cdn-img.fimfiction.net/story/feje-1432427170-18087-medium",
+		"rating": "T",
+		"dateAdded": "2020/02/24",
+		"expiry": null,
+		"authors":[
+			{
+				"name": "Captain Chryssalid",
+				"url": "https://www.fimfiction.net/user/22220/Capn_Chryssalid"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/18087/the-best-night-ever",
+				"title": "Fimfiction.net"
+			},
+			{
+				"url": "http://www.lulu.com/shop/captain-chryssalid/the-best-night-ever-paperback/paperback/product-24172683.html",
+				"title": "Paperback"
+			},
+			{
+				"url": "http://www.lulu.com/shop/captain-chryssalid/the-best-night-ever/hardcover/product-24172670.html",
+				"title": "Hardcover"
+			}
+		],
+		"tags": [
+			"paperback", "hardcover", "fimfic"
+		]
+	}
+	,{
+		"id": 99,
+		"title": "The Night Is Passing",
+		"edition": "1",
+		"img": "https://cdn-img.fimfiction.net/story/m1kx-1432475236-90558-medium",
+		"rating": "T",
+		"dateAdded": "2020/02/24",
+		"expiry": null,
+		"authors":[
+			{
+				"name": "Cynewulf",
+				"url": "https://www.fimfiction.net/user/5097/Cynewulf"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/90558/the-night-is-passing",
+				"title": "Fimfiction.net"
+			},
+			{
+				"url": "http://www.lulu.com/shop/cynewulf/the-night-is-passing-vol-i-paperback/paperback/product-24172473.html",
+				"title": "Paperback - Volume 1"
+			},
+			{
+				"url": "http://www.lulu.com/shop/cynewulf/the-night-is-passing-vol-ii-paperback/paperback/product-24172462.html",
+				"title": "Paperback - Volume 2"
+			},
+			{
+				"url": "http://www.lulu.com/shop/cynewulf/the-night-is-passing-vol-iii-paperback/paperback/product-24172459.html",
+				"title": "Paperback - Volume 3"
+			},
+			{
+				"url": "http://www.lulu.com/shop/cynewulf/the-night-is-passing-vol-i/hardcover/product-24352930.html",
+				"title": "Hardcover - Volume 1"
+			},
+			{
+				"url": "http://www.lulu.com/shop/cynewulf/the-night-is-passing-vol-ii/hardcover/product-24352909.html",
+				"title": "Hardcover - Volume 2"
+			},
+			{
+				"url": "http://www.lulu.com/shop/cynewulf/the-night-is-passing-vol-iii/hardcover/product-24352894.html",
+				"title": "Hardcover - Volume 3"
+			}
+		],
+		"tags": [
+			"paperback", "hardcover", "fimfic"
+		]
+	}
+	,{
+		"id": 100,
+		"title": "The Purloined Pony",
+		"edition": "1",
+		"img": "https://cdn-img.fimfiction.net/story/f0n5-1432558277-178769-medium",
+		"rating": "E",
+		"dateAdded": "2020/02/24",
+		"expiry": null,
+		"authors":[
+			{
+				"name": "Chris",
+				"url": "https://www.fimfiction.net/user/13928/Chris"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/178769/the-purloined-pony",
+				"title": "Fimfiction.net"
+			},
+			{
+				"url": "http://www.lulu.com/shop/chris/the-purloined-pony-pick-your-path-12/paperback/product-24249799.html",
+				"title": "Paperback"
+			}
+		],
+		"tags": [
+			"paperback", "fimfic", "chose your own adventure"
+		]
+	}
+	,{
+		"id": 101,
+		"title": "Lost Time",
+		"edition": "1",
+		"img": "https://cdn-img.fimfiction.net/story/rckm-1450899745-304593-medium",
+		"rating": "T",
+		"dateAdded": "2020/02/24",
+		"expiry": null,
+		"authors":[
+			{
+				"name": "bookplayer",
+				"url": "https://www.fimfiction.net/user/26449/bookplayer"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/304593/lost-time",
+				"title": "Fimfiction.net"
+			},
+			{
+				"url": "http://www.lulu.com/shop/bookplayer/lost-time-paperback/paperback/product-24200739.html",
+				"title": "Paperback"
+			},
+			{
+				"url": "http://www.lulu.com/shop/bookplayer/lost-time/hardcover/product-24353096.html",
+				"title": "Hardcover"
+			}
+		],
+		"tags": [
+			"paperback", "hardcover", "fimfic"
+		]
+	}
+	,{
+		"id": 102,
+		"title": "The Haunting",
+		"edition": "1",
+		"img": "https://cdn-img.fimfiction.net/story/8mjm-1562637971-423769-medium",
+		"rating": "T",
+		"dateAdded": "2020/02/25",
+		"expiry": null,
+		"authors":[
+			{
+				"name": "Admiral Biscuit",
+				"url": "https://www.fimfiction.net/user/72053/Admiral+Biscuit"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/423769/the-haunting",
+				"title": "Fimfiction.net"
+			},
+			{
+				"url": "http://www.lulu.com/shop/admiral-biscuit/the-haunting/paperback/product-24168831.html",
+				"title": "Paperback"
+			}
+		],
+		"tags": [
+			"paperback", "fimfic"
+		]
+	}
+	,{
+		"id": 103,
+		"title": "TD the Alicorn Princess",
+		"edition": "1",
+		"img": "https://cdn-img.fimfiction.net/story/4sw1-1432498177-122018-medium",
+		"rating": "T",
+		"dateAdded": "2020/02/25",
+		"expiry": null,
+		"authors":[
+			{
+				"name": "BronyWriter",
+				"url": "https://www.fimfiction.net/user/43858/BronyWriter"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/122018/td-the-alicorn-princess",
+				"title": "Fimfiction.net"
+			},
+			{
+				"url": "http://www.lulu.com/shop/bronywriter/td-the-alicorn-princess/paperback/product-23795746.html",
+				"title": "Paperback"
+			}
+		],
+		"tags": [
+			"paperback", "fimfic"
+		]
+	}
+	,{
+		"id": 104,
+		"title": "Into the Dark",
+		"edition": "1",
+		"img": "https://cdn-img.fimfiction.net/story/zc9r-1562787050-327564-medium",
+		"rating": "T",
+		"dateAdded": "2020/02/25",
+		"expiry": null,
+		"authors":[
+			{
+				"name": "Corejo",
+				"url": "https://www.fimfiction.net/user/10457/Corejo"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/327564/into-the-dark",
+				"title": "Fimfiction.net"
+			},
+			{
+				"url": "http://www.lulu.com/content/paperback-book/into-the-dark/24918047",
+				"title": "Paperback"
+			},
+			{
+				"url": "http://www.lulu.com/content/hardcover-book/into-the-dark/24831764",
+				"title": "Hardcover"
+			}
+		],
+		"tags": [
+			"paperback", "hardcover", "fimfic"
+		]
+	}
+	,{
+		"id": 105,
+		"title": "Dash Tries to Win Your Heart",
+		"edition": "1",
+		"img": "https://cdn-img.fimfiction.net/story/ruwv-1565023489-298089-medium",
+		"rating": "T",
+		"dateAdded": "2020/02/25",
+		"expiry": null,
+		"authors":[
+			{
+				"name": "Flutterpriest",
+				"url": "https://www.fimfiction.net/user/177150/Flutterpriest"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/298089/dash-tries-to-win-your-heart",
+				"title": "Fimfiction.net"
+			},
+			{
+				"url": "http://www.lulu.com/shop/flutterpriest/dash-tries-to-win-your-heart/paperback/product-24145890.html",
+				"title": "Paperback"
+			},
+			{
+				"url": "http://www.lulu.com/shop/flutterpriest/dash-tries-to-win-your-heart-hard-cover/hardcover/product-24168738.html",
+				"title": "Hardcover"
+			}
+		],
+		"tags": [
+			"paperback", "hardcover", "fimfic"
+		]
+	}
+	,{
+		"id": 106,
+		"title": "The Traveling Tutor and the Librarian",
+		"edition": "1",
+		"img": "https://cdn-img.fimfiction.net/story/szgi-1432458372-67042-medium",
+		"rating": "E",
+		"dateAdded": "2020/02/25",
+		"expiry": null,
+		"authors":[
+			{
+				"name": "Georg",
+				"url": "https://www.fimfiction.net/user/47923/Georg"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/67042/the-traveling-tutor-and-the-librarian",
+				"title": "Fimfiction.net"
+			},
+			{
+				"url": "http://www.lulu.com/shop/lynn-wahl/travelingtutor2em/paperback/product-24120528.html",
+				"title": "Paperback"
+			}
+		],
+		"tags": [
+			"paperback", "fimfic"
+		]
+	}
+	,{
+		"id": 107,
+		"title": "The Monster in the Twilight",
+		"edition": "1",
+		"img": "https://cdn-img.fimfiction.net/story/pq0m-1432466538-78582-medium",
+		"rating": "T",
+		"dateAdded": "2020/02/25",
+		"expiry": null,
+		"authors":[
+			{
+				"name": "Georg",
+				"url": "https://www.fimfiction.net/user/47923/Georg"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/78582/the-monster-in-the-twilight",
+				"title": "Fimfiction.net"
+			},
+			{
+				"url": "http://www.lulu.com/shop/lynn-wahl/bcb-monster2cpb/paperback/product-24141158.html",
+				"title": "Paperback"
+			},
+			{
+				"url": "http://www.lulu.com/shop/lynn-wahl/bcb-monster-2c/hardcover/product-24141128.html",
+				"title": "Hardcover"
+			}
+		],
+		"tags": [
+			"paperback", "hardcover", "fimfic"
+		]
+	}
+	,{
+		"id": 107,
+		"title": "Letters From a Little Princess Monster",
+		"edition": "1",
+		"img": "https://cdn-img.fimfiction.net/story/bezw-1432513687-143216-medium",
+		"rating": "T",
+		"dateAdded": "2020/02/25",
+		"expiry": null,
+		"authors":[
+			{
+				"name": "Georg",
+				"url": "https://www.fimfiction.net/user/47923/Georg"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/143216/letters-from-a-little-princess-monster",
+				"title": "Fimfiction.net"
+			},
+			{
+				"url": "http://www.lulu.com/shop/lynn-wahl/bcb-letters2c-stdpaperback/paperback/product-24141167.html",
+				"title": "Paperback"
+			},
+			{
+				"url": "http://www.lulu.com/shop/lynn-wahl/bcb-letters-2c/hardcover/product-24140933.html",
+				"title": "Hardcover"
+			}
+		],
+		"tags": [
+			"paperback", "hardcover", "fimfic"
+		]
+	}
+	,{
+		"id": 108,
+		"title": "The Monster Below: Nightfall",
+		"edition": "1",
+		"img": "https://cdn-img.fimfiction.net/story/08ed-1432567230-191246-medium",
+		"rating": "T",
+		"dateAdded": "2020/02/25",
+		"expiry": null,
+		"authors":[
+			{
+				"name": "Greenback",
+				"url": "https://www.fimfiction.net/user/88969/Greenback"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/191246/the-monster-below-nightfall",
+				"title": "Fimfiction.net"
+			},
+			{
+				"url": "https://www.fimfiction.net/blog/873407/information-on-how-to-order-a-physical-copy-of-the-monster-below-nightfall",
+				"title": "Information"
+			}
+		],
+		"tags": [
+			"paperback", "hardcover", "fimfic"
+		]
+	}
+	,{
+		"id": 109,
+		"title": "It’s a Dangerous Business, Going Out Your Door",
+		"edition": "1",
+		"img": "https://cdn-img.fimfiction.net/story/696s-1432561326-182859-medium",
+		"rating": "T",
+		"dateAdded": "2020/02/25",
+		"expiry": null,
+		"authors":[
+			{
+				"name": "Jetfire2012",
+				"url": "https://www.fimfiction.net/user/182261/Jetfire2012"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/182859/its-a-dangerous-business-going-out-your-door",
+				"title": "Fimfiction.net"
+			},
+			{
+				"url": "http://www.lulu.com/shop/jetfire2012/its-a-dangerous-business-going-out-your-door/paperback/product-24225905.html",
+				"title": "Paperback"
+			}
+		],
+		"tags": [
+			"paperback", "fimfic"
+		]
+	}
+	,{
+		"id": 110,
+		"title": "Bulletproof Heart",
+		"edition": "1",
+		"img": "https://cdn-img.fimfiction.net/story/7yi2-1533074552-416114-medium",
+		"rating": "T",
+		"dateAdded": "2020/02/25",
+		"expiry": null,
+		"authors":[
+			{
+				"name": "PaulAsaran",
+				"url": "https://www.fimfiction.net/user/111840/PaulAsaran"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/416114/bulletproof-heart",
+				"title": "Fimfiction.net"
+			},
+			{
+				"url": "http://www.lulu.com/shop/jeremy-p-courville/bulletproof-heart/paperback/product-24157826.html",
+				"title": "Paperback"
+			},
+			{
+				"url": "http://www.lulu.com/shop/jeremy-p-courville/bulletproof-heart-hardcover/hardcover/product-24170071.html",
+				"title": "Hardcover"
+			}
+		],
+		"tags": [
+			"paperback", "hardcover", "fimfic"
+		]
+	}
+	,{
+		"id": 111,
+		"title": "The Gentle Nights: Audience of One",
+		"edition": "1",
+		"img": "https://cdn-img.fimfiction.net/story/7675-1432582298-213853-medium",
+		"rating": "E",
+		"dateAdded": "2020/02/25",
+		"expiry": null,
+		"authors":[
+			{
+				"name": "PaulAsaran",
+				"url": "https://www.fimfiction.net/user/111840/PaulAsaran"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/213853/the-gentle-nights-audience-of-one",
+				"title": "Fimfiction.net"
+			},
+			{
+				"url": "http://www.lulu.com/shop/jeremy-p-courville/the-gentle-nights-audience-of-one/paperback/product-24170075.html",
+				"title": "Paperback"
+			}
+		],
+		"tags": [
+			"paperback", "fimfic"
+		]
+	}
+	,{
+		"id": 112,
+		"title": "A New Way",
+		"edition": "1",
+		"img": "https://cdn-img.fimfiction.net/story/uduz-1432515094-145158-medium",
+		"rating": "T",
+		"dateAdded": "2020/02/25",
+		"expiry": null,
+		"authors":[
+			{
+				"name": "Phoenix_Dragon",
+				"url": "https://www.fimfiction.net/user/49263/Phoenix_Dragon"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/145158/a-new-way",
+				"title": "Fimfiction.net"
+			},
+			{
+				"url": "http://www.lulu.com/shop/http://www.lulu.com/shop/phoenix/a-new-way/hardcover/product-24259465.html",
+				"title": "Hardcover"
+			}
+		],
+		"tags": [
+			"hardcover", "fimfic"
+		]
+	}
+	,{
+		"id": 113,
+		"title": "Fragments",
+		"edition": "1",
+		"img": "https://cdn-img.fimfiction.net/story/g7cc-1432444485-45720-medium",
+		"rating": "E",
+		"dateAdded": "2020/02/25",
+		"expiry": null,
+		"authors":[
+			{
+				"name": "Phoenix_Dragon",
+				"url": "https://www.fimfiction.net/user/49263/Phoenix_Dragon"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/45720/fragments",
+				"title": "Fimfiction.net"
+			},
+			{
+				"url": "http://www.lulu.com/shop/http://www.lulu.com/shop/phoenix/fragments/hardcover/product-24259457.html",
+				"title": "Hardcover"
+			}
+		],
+		"tags": [
+			"hardcover", "fimfic"
+		]
+	}
+	,{
+		"id": 114,
+		"title": "Without a Hive",
+		"edition": "1",
+		"img": "https://cdn-img.fimfiction.net/story/g0ep-1432449152-52953-medium",
+		"rating": "T",
+		"dateAdded": "2020/02/25",
+		"expiry": null,
+		"authors":[
+			{
+				"name": "Phoenix_Dragon",
+				"url": "https://www.fimfiction.net/user/49263/Phoenix_Dragon"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/52953/without-a-hive",
+				"title": "Fimfiction.net"
+			},
+			{
+				"url": "http://www.lulu.com/shop/phoenix/without-a-hive/hardcover/product-24144714.html",
+				"title": "Hardcover"
+			}
+		],
+		"tags": [
+			"hardcover", "fimfic"
+		]
+	}
+	,{
+		"id": 115,
+		"title": "Knights of Equestria",
+		"edition": "1",
+		"img": "http://static.lulu.com/browse/product_thumbnail.php?productId=23020397&resolution=320",
+		"rating": "M",
+		"dateAdded": "2020/02/25",
+		"expiry": null,
+		"authors":[
+			{
+				"name": "Solaris90",
+				"url": "https://www.fimfiction.net/user/2758/Solaris90"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.deviantart.com/solaris90/art/Knights-of-Equestria-Part-1-205456422",
+				"title": "DeviantArt"
+			},
+			{
+				"url": "http://www.lulu.com/shop/solaris90/knights-of-equestria/hardcover/product-23020397.html",
+				"title": "Hardcover"
+			}
+		],
+		"tags": [
+			"hardcover", "fimfic"
+		]
+	}
+	,{
+		"id": 116,
+		"title": "Spark Visions of Twilight",
+		"edition": "1",
+		"img": "https://cdn-img.fimfiction.net/story/deh3-1460262613-305096-medium",
+		"rating": "T",
+		"dateAdded": "2020/02/25",
+		"expiry": null,
+		"authors":[
+			{
+				"name": "Tangerine Blast",
+				"url": "https://www.fimfiction.net/user/67017/Tangerine+Blast"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/305096/spark-visions-of-twilight",
+				"title": "Fimfiction.net"
+			},
+			{
+				"url": "http://www.lulu.com/shop/tangerine-blast/spark-visions-of-twilight/paperback/product-24200783.html",
+				"title": "Paperback"
+			}
+		],
+		"tags": [
+			"paperback", "fimfic"
+		]
+	}
+	,{
+		"id": 117,
+		"title": "Gunsmoke",
+		"edition": "1",
+		"img": "https://cdn-img.fimfiction.net/story/u5u9-1448144012-301042-medium",
+		"rating": "T",
+		"dateAdded": "2020/02/25",
+		"expiry": null,
+		"authors":[
+			{
+				"name": "Wanderer D",
+				"url": "https://www.fimfiction.net/user/144/Wanderer+D"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/301042/gunsmoke",
+				"title": "Fimfiction.net"
+			},
+			{
+				"url": "http://www.lulu.com/shop/wanderer-d/gunsmoke/paperback/product-24180275.html",
+				"title": "Paperback"
+			}
+		],
+		"tags": [
+			"paperback", "fimfic"
+		]
+	}
+	,{
+		"id": 118,
+		"title": "A Song of Storms: Of Skies Long Forgotten",
+		"edition": "1",
+		"img": "https://cdn-img.fimfiction.net/story/rt80-1456622100-54946-medium",
+		"rating": "T",
+		"dateAdded": "2020/02/25",
+		"expiry": null,
+		"authors":[
+			{
+				"name": "The 24th Pegasus",
+				"url": "https://www.fimfiction.net/user/60513/The+24th+Pegasus"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/54946/a-song-of-storms-of-skies-long-forgotten",
+				"title": "Fimfiction.net"
+			},
+			{
+				"url": "http://www.lulu.com/shop/the-24th-pegasus/a-song-of-storms-of-skies-long-forgotten/paperback/product-24151926.html",
+				"title": "Paperback"
+			}
+		],
+		"tags": [
+			"paperback", "fimfic"
+		]
+	},{
+		"id": 119,
+		"title": "Fallout: Equestria - The Chrysalis",
+		"edition": "1",
+		"img": "https://cdn-img.fimfiction.net/story/qyqf-1441747646-288365-medium",
+		"rating": "M",
+		"dateAdded": "2020/02/29",
+		"expiry": null,
+		"authors":[
+			{
+				"name": "Phoenix_Dragon",
+				"url": "https://www.fimfiction.net/user/49263/Phoenix_Dragon"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/288365/",
+				"title": "Fimfiction.net"
+			},
+			{
+				"url": "http://www.lulu.com/shop/phoenix/fallout-equestria-the-chrysalis-book-1-wake/hardcover/product-24431412.html",
+				"title": "Hardcover (Volume 1)"
+			},
+			{
+				"url": "http://www.lulu.com/shop/phoenix/fallout-equestria-the-chrysalis-book-2-seek/hardcover/product-24431416.html",
+				"title": "Hardcover (Volume 2)"
+			},
+			{
+				"url": "http://www.lulu.com/shop/phoenix/fallout-equestria-the-chrysalis-book-3-change/hardcover/product-24431417.html",
+				"title": "Hardcover (Volume 3)"
+			}
+		],
+		"tags": [
+			"hardcover", "fimfic"
 		]
 	}
 ]
