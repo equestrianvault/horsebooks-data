@@ -3465,7 +3465,8 @@
 		"tags": [
 			"paperback", "fimfic"
 		]
-	},{
+	}
+	,{
 		"id": 119,
 		"title": "Fallout: Equestria - The Chrysalis",
 		"edition": "1",
@@ -3499,6 +3500,34 @@
 		],
 		"tags": [
 			"hardcover", "fimfic"
+		]
+	}
+	,{
+		"id": 120,
+		"title": "Through the Aurora",
+		"edition": "1",
+		"img": "https://cdn-img.fimfiction.net/story/kbol-1554527439-436202-medium",
+		"rating": "T",
+		"dateAdded": "2020/03/08",
+		"expiry": "2020/04/1",
+		"authors":[
+			{
+				"name": "Starscribe",
+				"url": "https://www.fimfiction.net/user/173490/Starscribe"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/436202/through-the-aurora",
+				"title": "Fimfiction.net"
+			},
+			{
+				"url": "https://igg.me/at/through-the-aurora",
+				"title": "Hardcover (Indiegogo)"
+			}
+		],
+		"tags": [
+			"hardcover", "fimfic", "limited run"
 		]
 	}
 ]
