@@ -3654,4 +3654,60 @@
 			"hardcover", "fimfic"
 		]
 	}
+	,{
+		"id": 126,
+		"title": "Fallout Equestria: Pink Eyes (AE)",
+		"edition": "2nd",
+		"img": "https://cdn-img.fimfiction.net/story/l9td-1432420232-931-medium",
+		"rating": "T",
+		"dateAdded": "2021/01/03",
+		"expiry": "2021/01/15",
+		"authors":[
+			{
+				"name": "mimezinga",
+				"url": "https://www.fimfiction.net/user/724/mimezinga"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/931/fallout-equestria-pink-eyes",
+				"title": "Fimfiction.net"
+			},
+			{
+				"url": "http://horse.bible/PinkEyes",
+				"title": "Preorder Signups (Ends 2021/01/15)"
+			}
+		],
+		"tags": [
+			"fimfic", "hardcover", "foe"
+		]
+	}
+	,{
+		"id": 127,
+		"title": "Auntie Tia's Matchmaking Service",
+		"edition": "1",
+		"img": "https://cdn-img.fimfiction.net/story/vk7m-1601064616-478567-medium",
+		"rating": "E",
+		"dateAdded": "2021/01/03",
+		"expiry": null,
+		"authors":[
+			{
+				"name": "Shaslan",
+				"url": "https://www.fimfiction.net/user/386952/Shaslan"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/478567/auntie-tias-matchmaking-service",
+				"title": "Fimfiction.net"
+			},
+			{
+				"url": "https://www.lulu.com/en/gb/shop/shaslan-/auntie-tias-matchmaking-service/hardcover/product-n6mnnm.html",
+				"title": "Hardcover"
+			}
+		],
+		"tags": [
+			"fimfic", "hardcover"
+		]
+	}
 ]
