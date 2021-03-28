@@ -3710,4 +3710,32 @@
 			"fimfic", "hardcover"
 		]
 	}
+	,{
+		"id": 128,
+		"title": "I.D. - That Indestructible Something",
+		"edition": "1",
+		"img": "https://cdn-img.fimfiction.net/story/636j-1432471364-85294-medium",
+		"rating": "T",
+		"dateAdded": "2021/03/26",
+		"expiry": null,
+		"authors":[
+			{
+				"name": "Chatoyance",
+				"url": "https://www.fimfiction.net/user/1291/Chatoyance"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/85294/id-that-indestructible-something",
+				"title": "Fimfiction.net"
+			},
+			{
+				"url": "https://forms.gle/JRbnp3q5Nnp3kmfXA",
+				"title": "Signup Form"
+			}
+		],
+		"tags": [
+			"fimfic", "hardcover", "signup"
+		]
+	}
 ]
