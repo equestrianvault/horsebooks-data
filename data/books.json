@@ -3707,7 +3707,7 @@
 			}
 		],
 		"tags": [
-			"fimfic", "hardcover"
+			"fimfic", "hardcover", "on demand"
 		]
 	}
 	,{
@@ -3736,6 +3736,34 @@
 		],
 		"tags": [
 			"fimfic", "hardcover", "signup"
+		]
+	}
+	,{
+		"id": 129,
+		"title": "I Am Not Sombra",
+		"edition": "1",
+		"img": "https://cdn-img.fimfiction.net/story/xtfw-1584598291-462778-medium",
+		"rating": "T",
+		"dateAdded": "2021/04/01",
+		"expiry": null,
+		"authors":[
+			{
+				"name": "Boopy Doopy",
+				"url": "https://www.fimfiction.net/user/369104/Boopy+Doopy"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/462778/i-am-not-sombra",
+				"title": "Fimfiction.net"
+			},
+			{
+				"url": "https://www.lulu.com/en/us/shop/boopy-doopy-and-mayhem-moth/i-am-not-sombra/paperback/product-4d8kp2.html",
+				"title": "Paperback"
+			}
+		],
+		"tags": [
+			"fimfic", "paperback", "on demand"
 		]
 	}
 ]
