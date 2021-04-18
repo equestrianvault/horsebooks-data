@@ -111,13 +111,12 @@
 			"fimfic", "hardcover", "anthology", "Her Soldiers, We", "Luna, Princess of Space", "Lunangrad", "Music for the Mare in the Moon", "Que Sera, Sera", "Quiet Boy and Moon Horse", "Tenebrae", "The Nightmare Omen", "Thou Goddess"
 		]
 	}
-	
-	
+
 	,{
 		"misc-to-add":[
 			{
 				"PonyfeatherPublishing": [
-					
+
 					"https://ponyfeatherpublishing.com/",
 					"Aragon’s The Essential Aragon",
 					"Monochromatic’s The Mono-Logues",
@@ -127,9 +126,9 @@
 					"Sharp Spark’s Peppermint Tea",
 					"Horse Voice’s Biblical Monsters and Other Grim Tales"
 					],
-					
+
 				"FriendsOfPFP": [
-				
+
 					"Admiral Biscuit’s Fanfare for the Common Mare  http://www.lulu.com/shop/admiral-biscuit/fanfare-for-the-common-mare/paperback/product-24170166.html",
 					"Admiral Biscuit’s Sam and Rose  http://www.lulu.com/shop/admiral-biscuit/sam-and-rose/paperback/product-24176459.html",
 					"Aquaman’s The Voices Are Telling Me to Hug You  http://www.lulu.com/shop/aquaman/the-voices-are-telling-me-to-hug-you/paperback/product-24254488.html",
@@ -146,6 +145,17 @@
 					"The Pony Print Project’s Nightmare Nights  http://www.lulu.com/shop/the-pony-print-project/nightmare-nights/hardcover/product-22875924.html",
 					"Trick Question’s Lovely Darkness  https://www.fimfiction.net/blog/867312/buy-some-apples-i-mean-my-book"
 					]
+
+				"Other": [
+
+					"gara's Big Ole Book of Wholesome Horse Porn https://www.fimfiction.net/group/209725/folder/71234/garas-big-ole-book-of-wholesome-horse-porn",
+					"I-A-M's Sunflower Gardens  https://www.fimfiction.net/group/209725/folder/73124/sunflower-gardens",
+					"Eakin's Time Loop Trilogy (MoI edition)  https://www.ministryofimage.net/product-page/the-time-loop-trilogy",
+					"TheRedBrony Collection  https://www.fimfiction.net/group/209725/folder/74326/theredbrony-collection",
+					"Jakkid166's Detective Story Bookization Book  https://www.fimfiction.net/group/209725/folder/74308/detective-jakkid166-detective-story-bookization-book",
+					"Skirt's Hello, Sedna/Bon Bon Bon Bon Bon Bon  https://docs.google.com/forms/d/e/1FAIpQLSdLyK5PlFIo7wVfALMrg-H_Qu5A1ipFfMPk74x4-Qk1eM8Mmg/viewform",
+					"Salvation/The Empty Room/The Immortal Game  https://docs.google.com/forms/d/e/1FAIpQLSf5QtkP216Ngw0gXGPNvCqpiAur4hHPax_vEUkUsT9dCj5bpg/viewform"
+					],
 			}
 		]
 	}
