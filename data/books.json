@@ -2334,7 +2334,7 @@
 			"fimfic", "foe", "hardcover"
 		]
 	}
-		,{
+	,{
 		"id": 79,
 		"title": "Message in a Bottle",
 		"edition": "1",
@@ -2362,7 +2362,7 @@
 			"fimfic", "hardcover", "limited run"
 		]
 	}
-		,{
+	,{
 		"id": 80,
 		"title": "Fallout: Equestria (AE)",
 		"edition": "4",
@@ -3764,6 +3764,62 @@
 		],
 		"tags": [
 			"fimfic", "paperback", "on demand"
+		]
+	}
+	,{
+		"id": 130,
+		"title": "Foal of the Forest	",
+		"edition": "1",
+		"img": "https://cdn-img.fimfiction.net/story/pl93-1432624247-116344-medium",
+		"rating": "T",
+		"dateAdded": "2021/04/18",
+		"expiry": null,
+		"authors":[
+			{
+				"name": "moguera",
+				"url": "https://www.fimfiction.net/user/13307/moguera"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/116344/foal-of-the-forest",
+				"title": "Fimfiction.net"
+			},
+			{
+				"url": "https://www.lulu.com/en/us/shop/moguera-and-equinox3141-/foal-of-the-forest/hardcover/product-5dw265.html",
+				"title": "Hardcover"
+			}
+		],
+		"tags": [
+			"fimfic", "hardcover", "on demand"
+		]
+	}
+	,{
+		"id": 131,
+		"title": "Fine Print",
+		"edition": "1",
+		"img": "https://cdn-img.fimfiction.net/story/gujr-1584609238-463533-medium",
+		"rating": "T",
+		"dateAdded": "2021/04/18",
+		"expiry": "2021/05/17",
+		"authors":[
+			{
+				"name": "Starscribe",
+				"url": "https://www.fimfiction.net/user/173490/Starscribe"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/463533/fine-print",
+				"title": "Fimfiction.net"
+			},
+			{
+				"url": "https://www.indiegogo.com/projects/fine-print-hardcover-publication#/",
+				"title": "Hardcover (Indiegogo)"
+			}
+		],
+		"tags": [
+			"fimfic", "hardcover", "limited run"
 		]
 	}
 ]
