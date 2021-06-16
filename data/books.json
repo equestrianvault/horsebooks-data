@@ -3822,4 +3822,60 @@
 			"fimfic", "hardcover", "limited run"
 		]
 	}
+	,{
+		"id": 132,
+		"title": "A Shadow Hangs Overhead",
+		"edition": "1",
+		"img": "https://cdn-img.fimfiction.net/story/xsop-1432504707-131045-medium",
+		"rating": "T",
+		"dateAdded": "2021/06/16",
+		"expiry": null,
+		"authors":[
+			{
+				"name": "BronyWriter",
+				"url": "https://www.fimfiction.net/user/43858/BronyWriter"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/131045/a-shadow-hangs-overhead",
+				"title": "Fimfiction.net"
+			},
+			{
+				"url": "https://www.lulu.com/en/us/shop/bronywriter-/a-shadow-hangs-overhead/paperback/product-7jdzv6.html",
+				"title": "Paperback"
+			}
+		],
+		"tags": [
+			"fimfic", "paperback", "on demand"
+		]
+	}
+	,{
+		"id": 133,
+		"title": "Fallout: Equestira - Heroes",
+		"edition": "1",
+		"img": "https://cdn-img.fimfiction.net/story/3fx2-1432419418-662-medium",
+		"rating": "T",
+		"dateAdded": "2021/06/16",
+		"expiry": null,
+		"authors":[
+			{
+				"name": "No One",
+				"url": "https://www.fimfiction.net/user/872/No+One"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/662/fallout-equestria-heroes",
+				"title": "Fimfiction.net"
+			},
+			{
+				"url": "https://www.ministryofimage.net/product-page/fallout-equestira-heroes",
+				"title": "Hardcover (Preorder)"
+			}
+		],
+		"tags": [
+			"fimfic", "hardcover", "preorder"
+		]
+	}
 ]
