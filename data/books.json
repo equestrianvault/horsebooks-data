@@ -2686,7 +2686,7 @@
 				"title": "Fimfiction.net"
 			},
 			{
-				"url": "https://docs.google.com/forms/d/e/1FAIpQLSfE9ckw3oALatD7xlKgEjLFUsub6l1LiY77vPx7M0bQ2WAzcg/viewform",
+				"url": "https://forms.gle/JRbnp3q5Nnp3kmfXA",
 				"title": "Signup Form"
 			}
 		],
@@ -3876,6 +3876,94 @@
 		],
 		"tags": [
 			"fimfic", "hardcover", "preorder"
+		]
+	}
+	,{
+		"id": 134,
+		"title": "Them",
+		"edition": "1",
+		"img": "https://cdn-img.fimfiction.net/story/2eg2-1629148306-119865-medium",
+		"rating": "T",
+		"dateAdded": "2021/08/28",
+		"expiry": null,
+		"authors":[
+			{
+				"name": "Ether Echoes",
+				"url": "https://www.fimfiction.net/user/19229/Ether+Echoes"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/119865/them",
+				"title": "Fimfiction.net"
+			},
+			{
+				"url": "https://www.lulu.com/en/us/shop/ether-echoes/them/hardcover/product-972rvn.html",
+				"title": "Hardcover"
+			}
+		],
+		"tags": [
+			"fimfic", "hardcover", "on demand"
+		]
+	}
+	,{
+		"id": 135,
+		"title": "Princess Celestia: The Changeling Queen",
+		"edition": "1",
+		"img": "https://cdn-img.fimfiction.net/story/sfck-1516859701-82748-medium",
+		"rating": "E",
+		"dateAdded": "2021/08/28",
+		"expiry": "2021/09/05",
+		"authors":[
+			{
+				"name": "vren55",
+				"url": "https://www.fimfiction.net/user/26998/vren55"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/82748/princess-celestia-the-changeling-queen",
+				"title": "Fimfiction.net"
+			},
+			{
+				"url": "https://forms.gle/69QJNEYtNMUNZvXW8",
+				"title": "Hardcover"
+			}
+		],
+		"tags": [
+			"fimfic", "hardcover", "limited run"
+		]
+	}
+	,{
+		"id": 136,
+		"title": "Fallout Equestria: Duck and Cover (& Make Love Not War)",
+		"edition": "2",
+		"img": "https://cdn-img.fimfiction.net/story/ur3l-1432512535-141568-medium",
+		"rating": "M",
+		"dateAdded": "2021/08/28",
+		"expiry": null,
+		"authors":[
+			{
+				"name": "hahatimeforponies",
+				"url": "https://www.fimfiction.net/user/4287/hahatimeforponies"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/141568/fallout-equestria-duck-and-cover",
+				"title": "Duck and Cover (Fimfiction.net)"
+			},
+			{
+				"url": "https://www.fimfiction.net/story/301900/fallout-equestria-make-love-not-war",
+				"title": "Make Love Not War (Fimfiction.net)"
+			},
+			{
+				"url": "https://absolutelyeverything.org/products/fallout-equestria-duck-and-cover-leather",
+				"title": "Leather Hardcover w/ Dust Cover"
+			}
+		],
+		"tags": [
+			"fimfic", "hardcover", "foe", "Make Love Not War"
 		]
 	}
 ]
