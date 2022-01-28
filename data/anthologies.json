@@ -1,1 +1,94 @@
-[]
+[
+    {
+        "anthology-id": 1,
+        "title": "Tales of the Moon",
+        "edition": "1",
+        "img": "https://static.wixstatic.com/media/45d896_2732a33343df415d8301cee7cc1e8377~mv2.png/v1/fill/w_750,h_750,al_c,q_90,usm_0.66_1.00_0.01/45d896_2732a33343df415d8301cee7cc1e8377~mv2.webp",
+        "rating": "T",
+        "dateAdded": "2022/01/28",
+        "expiry": null,
+        "authors": [
+            {
+                "name": "Keystroke Cascade - Collection Keeper",
+                "url": "https://www.fimfiction.net/user/298656/Keystroke+Cascade"
+            },
+            {
+                "name": "horizon",
+                "url": "https://www.fimfiction.net/user/13911/horizon"
+            },
+            {
+                "name": "Pearple Prose",
+                "url": "https://www.fimfiction.net/user/92239/Pearple+Prose"
+            },
+            {
+                "name": "Cynewulf",
+                "url": "https://www.fimfiction.net/user/5097/Cynewulf"
+            },
+            {
+                "name": "Neon Czolgosz",
+                "url": "https://www.fimfiction.net/user/5927/Neon+Czolgosz"
+            },
+            {
+                "name": "Ponydora Prancypants",
+                "url": "https://www.fimfiction.net/user/1525/Ponydora+Prancypants"
+            },
+            {
+                "name": "Tigerhorse",
+                "url": "https://www.fimfiction.net/user/9725/Tigerhorse"
+            },
+            {
+                "name": "dragonjek",
+                "url": "https://www.fimfiction.net/user/71005/dragonjek"
+            },
+            {
+                "name": "TheKissoftheVoid",
+                "url": "https://www.fimfiction.net/user/88668/TheKissoftheVoid"
+            }
+        ],
+        "links":[
+            {
+                "url": "https://www.fimfiction.net/bookshelf/1161654/tales-of-the-moon",
+                "title": "Source Bookshelf: Fimfiction.net"
+            },
+            {
+                "url": "https://www.fimfiction.net/story/313332/quiet-boy-and-moon-horse",
+                "title": "Quiet Boy and Moon Horse"
+            },
+            {
+                "url": "https://www.fimfiction.net/story/197126/tenebrae",
+                "title": "Tenebrae"
+            },
+            {
+                "url": "https://www.fimfiction.net/story/404335/lunangrad",
+                "title": "Lunangrad"
+            },
+            {
+                "url": "https://www.fimfiction.net/story/172316/thou-goddess",
+                "title": "Thou Goddess"
+            },
+            {
+                "url": "https://www.fimfiction.net/story/246579/luna-princess-of-space",
+                "title": "Luna, Princess of Space"
+            },
+            {
+                "url": "https://www.fimfiction.net/story/79147/que-sera-sera",
+                "title": "Que Sera, Sera"
+            },
+            {
+                "url": "https://www.fimfiction.net/story/328030/her-soldiers-we",
+                "title": "Her Soldiers, We"
+            },
+            {
+                "url": "https://www.fimfiction.net/story/290299/music-for-the-mare-in-the-moon",
+                "title": "Music for the Mare in the Moon"
+            },
+            {
+                "url": "https://www.fimfiction.net/story/172833/the-nightmare-omen",
+                "title": "The Nightmare Omen"
+            }
+        ],
+        "tags":[
+            "anthology", "hardcover", "fimfic"
+        ]
+    }
+]
