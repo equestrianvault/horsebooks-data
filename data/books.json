@@ -2310,6 +2310,10 @@
 				"title": "Fimfiction.net"
 			},
 			{
+				"url": "https://www.ministryofimage.net/product-page/fallout-equestria-project-horizons",
+				"title": "Hardcover"
+			},
+			{
 				"url": "https://www.ministryofimage.net/product-page/fallout-equestria-project-horizons-vol-1",
 				"title": "Hardcover (Volume 1)"
 			},
@@ -3592,6 +3596,10 @@
 			{
 				"url": "https://absolutelyeverything.org/collections/fallout-equestria-books/products/fallout-equestria-duck-and-cover",
 				"title": "Hardcover w/ Dust Cover"
+			},
+			{
+				"url": "https://absolutelyeverything.org/products/fallout-equestria-duck-and-cover-leather",
+				"title": "Leather Hardcover w/ Dust Cover"
 			}
 		],
 		"tags": [
@@ -3620,6 +3628,10 @@
 			{
 				"url": "https://www.ministryofimage.net/product-page/fallout-equestria",
 				"title": "Hardcover"
+			},
+			{
+				"url": "https://www.ministryofimage.net/product-page/fallout-equestria-special-edition",
+				"title": "Special Edition"
 			}
 		],
 		"tags": [
@@ -3647,11 +3659,11 @@
 			},
 			{
 				"url": "https://www.ministryofimage.net/product-page/the-enchanted-library",
-				"title": "Hardcover (Preorder)"
+				"title": "Hardcover"
 			}
 		],
 		"tags": [
-			"hardcover", "fimfic"
+			"hardcover", "fimfic", "on demand"
 		]
 	}
 	,{
@@ -3852,7 +3864,7 @@
 	}
 	,{
 		"id": 133,
-		"title": "Fallout: Equestira - Heroes",
+		"title": "Fallout: Equestria - Heroes",
 		"edition": "1",
 		"img": "https://cdn-img.fimfiction.net/story/3fx2-1432419418-662-medium",
 		"rating": "T",
@@ -3871,11 +3883,11 @@
 			},
 			{
 				"url": "https://www.ministryofimage.net/product-page/fallout-equestira-heroes",
-				"title": "Hardcover (Preorder)"
+				"title": "Hardcover"
 			}
 		],
 		"tags": [
-			"fimfic", "hardcover", "preorder"
+			"fimfic", "hardcover", "on demand"
 		]
 	}
 	,{
@@ -3913,7 +3925,7 @@
 		"img": "https://cdn-img.fimfiction.net/story/sfck-1516859701-82748-medium",
 		"rating": "E",
 		"dateAdded": "2021/08/28",
-		"expiry": "2021/09/05",
+		"expiry": null,
 		"authors":[
 			{
 				"name": "vren55",
@@ -3926,48 +3938,16 @@
 				"title": "Fimfiction.net"
 			},
 			{
-				"url": "https://forms.gle/69QJNEYtNMUNZvXW8",
-				"title": "Hardcover"
+				"url": "https://forms.gle/JRbnp3q5Nnp3kmfXA",
+				"title": "Signup"
 			}
 		],
 		"tags": [
-			"fimfic", "hardcover", "limited run"
+			"fimfic", "hardcover", "signup"
 		]
 	}
 	,{
 		"id": 136,
-		"title": "Fallout Equestria: Duck and Cover (& Make Love Not War)",
-		"edition": "2",
-		"img": "https://cdn-img.fimfiction.net/story/ur3l-1432512535-141568-medium",
-		"rating": "M",
-		"dateAdded": "2021/08/28",
-		"expiry": null,
-		"authors":[
-			{
-				"name": "hahatimeforponies",
-				"url": "https://www.fimfiction.net/user/4287/hahatimeforponies"
-			}
-		],
-		"links": [
-			{
-				"url": "https://www.fimfiction.net/story/141568/fallout-equestria-duck-and-cover",
-				"title": "Duck and Cover (Fimfiction.net)"
-			},
-			{
-				"url": "https://www.fimfiction.net/story/301900/fallout-equestria-make-love-not-war",
-				"title": "Make Love Not War (Fimfiction.net)"
-			},
-			{
-				"url": "https://absolutelyeverything.org/products/fallout-equestria-duck-and-cover-leather",
-				"title": "Leather Hardcover w/ Dust Cover"
-			}
-		],
-		"tags": [
-			"fimfic", "hardcover", "foe", "Make Love Not War"
-		]
-	}
-	,{
-		"id": 137,
 		"title": "Sparkle's No. 1 Assistant",
 		"edition": "1st",
 		"img": "https://cdn-img.fimfiction.net/story/jm9a-1432562336-184299-medium",
@@ -3995,7 +3975,7 @@
 		]
 	}
 	,{
-		"id": 138,
+		"id": 137,
 		"title": "Before Time Began to Flow",
 		"edition": "1st",
 		"img": "https://cdn-img.fimfiction.net/story/i4m9-1555787857-80921-medium",
@@ -4023,7 +4003,7 @@
 		]
 	}
 	,{
-		"id": 139,
+		"id": 138,
 		"title": "Winds of the Past",
 		"edition": "1st",
 		"img": "https://cdn-img.fimfiction.net/story/oj6z-1656250970-143878-medium",
@@ -4044,6 +4024,210 @@
 			{
 				"url": "Hardcover",
 				"title": "https://www.lulu.com/shop/fantasia-/winds-of-the-past/hardcover/product-njv79j.html"
+			}
+		],
+		"tags": [
+			"fimfic", "hardcover", "on demand"
+		]
+	}
+	,{
+		"id": 139,
+		"title": "Friendship is Optimal",
+		"edition": "1st",
+		"img": "https://cdn-img.fimfiction.net/story/hkjy-1432455016-62074-medium",
+		"rating": "T",
+		"dateAdded": "2022/07/07",
+		"expiry": null,
+		"authors":[
+			{
+				"name": "Iceman",
+				"url": "https://www.fimfiction.net/user/16334/Iceman"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/62074/friendship-is-optimal",
+				"title": "Fimfiction.net"
+			},
+			{
+				"url": "Hardcover",
+				"title": "https://www.ministryofimage.net/product-page/friendship-is-optimal"
+			}
+		],
+		"tags": [
+			"fimfic", "hardcover", "on demand"
+		]
+	}
+	,{
+		"id": 140,
+		"title": "The Mare Who Once Lived on the Moon",
+		"edition": "1st",
+		"img": "https://cdn-img.fimfiction.net/story/kqiz-1485743579-247031-medium",
+		"rating": "T",
+		"dateAdded": "2022/07/07",
+		"expiry": null,
+		"authors":[
+			{
+				"name": "MrNumbers",
+				"url": "https://www.fimfiction.net/user/8831/MrNumbers"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/247031/the-mare-who-once-lived-on-the-moon",
+				"title": "Fimfiction.net"
+			},
+			{
+				"url": "Hardcover (MoI)",
+				"title": "https://www.ministryofimage.net/product-page/the-mare-who-once-lived-on-the-moon"
+			},
+			{
+				"url": "Paperback (Lulu)",
+				"title": "https://www.lulu.com/en/us/shop/mrnumbers-/the-mare-who-once-lived-on-the-moon-paperback/paperback/product-w6vdjk.html"
+			},
+			{
+				"url": "Hardcover (Lulu)",
+				"title": "https://www.lulu.com/en/us/shop/mrnumbers-/the-mare-who-once-lived-on-the-moon/hardcover/product-eveyw6.html"
+			}
+		],
+		"tags": [
+			"fimfic", "hardcover", "on demand"
+		]
+	}
+	,{
+		"id": 141,
+		"title": "A Stallion for the Time Being",
+		"edition": "1st",
+		"img": "https://cdn-img.fimfiction.net/story/o2fv-1432496738-120102-medium",
+		"rating": "T",
+		"dateAdded": "2022/07/07",
+		"expiry": null,
+		"authors":[
+			{
+				"name": "Sharp Spark",
+				"url": "https://www.fimfiction.net/user/105050/Sharp+Spark"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/120102/a-stallion-for-the-time-being",
+				"title": "Fimfiction.net"
+			},
+			{
+				"url": "Hardcover",
+				"title": "https://www.ministryofimage.net/product-page/a-stallion-for-the-time-being"
+			}
+		],
+		"tags": [
+			"fimfic", "hardcover", "on demand"
+		]
+	}
+	,{
+		"id": 142,
+		"title": "Better Living Through Science and Ponies",
+		"edition": "1st",
+		"img": "https://cdn-img.fimfiction.net/story/ajx4-1432429782-22535-medium",
+		"rating": "E",
+		"dateAdded": "2022/07/07",
+		"expiry": null,
+		"authors":[
+			{
+				"name": "Pen Stroke",
+				"url": "https://www.fimfiction.net/user/3291/Pen+Stroke"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/22535/better-living-through-science-and-ponies",
+				"title": "Fimfiction.net"
+			},
+			{
+				"url": "Hardcover",
+				"title": "https://www.ministryofimage.net/product-page/better-living-through-science-and-ponies"
+			}
+		],
+		"tags": [
+			"fimfic", "hardcover", "on demand"
+		]
+	}
+	,{
+		"id": 143,
+		"title": "Why am I Pinkie Pie?!",
+		"edition": "1st",
+		"img": "https://cdn-img.fimfiction.net/story/7fgs-1432437568-34702-medium",
+		"rating": "E",
+		"dateAdded": "2022/07/07",
+		"expiry": null,
+		"authors":[
+			{
+				"name": "Hoopy McGee",
+				"url": "https://www.fimfiction.net/user/5316/Hoopy+McGee"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/34702/why-am-i-pinkie-pie",
+				"title": "Fimfiction.net"
+			},
+			{
+				"url": "Hardcover",
+				"title": "https://www.ministryofimage.net/product-page/why-am-i-pinkie-pie"
+			}
+		],
+		"tags": [
+			"fimfic", "hardcover", "on demand"
+		]
+	}
+	,{
+		"id": 144,
+		"title": "The King of Love Bugs",
+		"edition": "1st",
+		"img": "https://cdn-img.fimfiction.net/story/m4jg-1623080094-358524-medium",
+		"rating": "E",
+		"dateAdded": "2022/07/07",
+		"expiry": null,
+		"authors":[
+			{
+				"name": "NavelColt",
+				"url": "https://www.fimfiction.net/user/40075/NavelColt"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/358524/the-king-of-love-bugs",
+				"title": "Fimfiction.net"
+			},
+			{
+				"url": "https://www.fimfiction.net/user/40075/NavelColt",
+				"title": "Message author for link"
+			}
+		],
+		"tags": [
+			"fimfic", "hardcover", "on demand"
+		]
+	}
+	,{
+		"id": 145,
+		"title": "Best Hell Ever & Heaven of a Hell",
+		"edition": "1st",
+		"img": "https://cdn-img.fimfiction.net/story/kw8c-1507747851-388353-medium",
+		"rating": "E",
+		"dateAdded": "2022/07/07",
+		"expiry": null,
+		"authors":[
+			{
+				"name": "Rambling Writer",
+				"url": "https://www.fimfiction.net/user/253168/Rambling+Writer"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/388353/best-hell-ever",
+				"title": "Fimfiction.net"
+			},
+			{
+				"url": "Hardcover",
+				"title": "https://www.lulu.com/shop/rambling-writer-/best-hell-ever-heaven-of-a-hell/hardcover/product-zzzd84.html"
 			}
 		],
 		"tags": [
