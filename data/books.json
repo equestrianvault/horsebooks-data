@@ -4022,6 +4022,32 @@
 			"fimfic", "paperback", "on demand"
 		]
 	}
-
-
+	,{
+		"id": 139,
+		"title": "Winds of the Past",
+		"edition": "1st",
+		"img": "https://cdn-img.fimfiction.net/story/oj6z-1656250970-143878-medium",
+		"rating": "T",
+		"dateAdded": "2022/07/07",
+		"expiry": null,
+		"authors":[
+			{
+				"name": "Fantasia",
+				"url": "https://www.fimfiction.net/user/13423/Fantasia"
+			}
+		],
+		"links": [
+			{
+				"url": "https://www.fimfiction.net/story/143878/winds-of-the-past",
+				"title": "Fimfiction.net"
+			},
+			{
+				"url": "Hardcover",
+				"title": "https://www.lulu.com/shop/fantasia-/winds-of-the-past/hardcover/product-njv79j.html"
+			}
+		],
+		"tags": [
+			"fimfic", "hardcover", "on demand"
+		]
+	}
 ]
